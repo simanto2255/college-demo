@@ -1,3 +1,3 @@
 # college-demo
 this is my first repository. <br>
-author - simanto mohonto
+author - simanto (upna school)
